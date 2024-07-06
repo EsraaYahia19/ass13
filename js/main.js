@@ -36,7 +36,7 @@ $('.closeIcone').on("click",function () {
     $('.mainContent').animate({ width:"90%", marginRight:"150px"  } ,900)
     $('.mainHome h1 , .mainHome p').animate({  marginLeft:"0px"  } ,900)
     $('.navOpen i').animate({marginLeft:"0px"},900)
-$('body ,html').animate({scrollTop:"0"},1)
+$('body , html').animate({scrollTop:"0"},1)
 
 
     
